@@ -1,0 +1,2 @@
+Fazer as validações do Back e Front-End com o Zod nos dois ou no Back com o Zod
+E no Front com o React Hook Form
